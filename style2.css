@@ -83,4 +83,10 @@ a:hover {
     background-color: #7500008c ;
 
   }
+  h1:hover {
+    color: rgb(138, 0, 0);
+    box-shadow: 5px 10px 8px 10px #00000022;
+   background: none;
+          }
+          
  
