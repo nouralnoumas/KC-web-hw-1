@@ -1,0 +1,84 @@
+
+    
+
+    .banner {
+width: 100%;
+height: 100vh;
+background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(./idvbg2.jpg);
+background-size: cover;
+background-position: top;
+    }
+
+    
+
+    
+   .logo {
+    height: 1px;
+width: 1px;
+cursor: pointer;
+   }
+    
+   h1 {
+color: rgb(222, 230, 234);
+background-color: rgba(235, 170, 97, 0.037);
+width: 150px;
+font-family: 'Times New Roman', Times, serif;
+ padding-left: 7px;  
+}
+   p {
+    color: rgb(208, 213, 218);
+    padding-left: 10px;
+   }
+
+   h3 {
+    width: 120px;
+    height: 10px;
+    text-align: left;
+    padding: 20px;
+    color: rgb(231, 232, 236);
+    word-spacing: 1px;
+    font-weight: bold;
+    font-size: larger; 
+
+}
+
+ol{
+    width: 300px;
+    height: 120px;
+   
+    
+    border-radius: 0px ;
+    text-align: left ;
+   
+    padding: 10px;
+    color: rgb(250, 251, 255);
+    word-spacing: 3px;
+    padding-left: 60px;
+    font-size: larger;
+}
+
+a:any-link {
+    color: rgb(112, 171, 222);
+   text-align:center ;
+    text-decoration: none;
+    padding-left: 30px;
+   
+}
+
+
+
+a:hover {
+    background-color: rgba(16, 21, 63, 0.975);
+  }
+  h3:hover {
+    background-color: #750000cf ;
+
+  }
+
+  ol:hover {
+    background-color: #750000b1 ;
+
+  }
+  h1:hover {
+   
+  }
