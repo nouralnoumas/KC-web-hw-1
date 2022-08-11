@@ -5,11 +5,15 @@
 width: 100%;
 height: 100vh;
 background-image: linear-gradient(rgba(0,0,0,0.75),rgba(0,0,0,0.75)),url(./idvbg2.jpg);
+-moz-background-size: cover;
+-o-background-size: cover;
 background-size: cover;
-background-position: top;
+
     }
 
-    
+    body{
+      margin: 0%;
+    }
 
     
    .logo {
@@ -31,7 +35,7 @@ font-family: 'Times New Roman', Times, serif;
    }
 
    h3 {
-    width: 120px;
+    width: 270px;
     height: 10px;
     text-align: left;
     padding: 20px;
@@ -71,14 +75,12 @@ a:hover {
     background-color: rgba(16, 21, 63, 0.975);
   }
   h3:hover {
-    background-color: #750000cf ;
+    background-color: #750000a8 ;
 
   }
 
   ol:hover {
-    background-color: #750000b1 ;
+    background-color: #7500008c ;
 
   }
-  h1:hover {
-   
-  }
+ 
